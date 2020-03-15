@@ -16,6 +16,7 @@ html, body {
     background-repeat: no-repeat;
     display: table;
     top: 0;
+    left: 0;
     background-size: cover;
 }
 .intro .inner {
@@ -29,6 +30,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(1.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -46,6 +48,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(2.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -63,6 +66,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(3.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -80,6 +84,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(4.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -97,6 +102,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(5.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -114,6 +120,7 @@ html, body {
     height: 100%; 
     width: 100%;
     margin: auto;
+    position: absolute;
     background-image: url(6.jpg);
     background-repeat: no-repeat;
     display: table;
@@ -121,6 +128,61 @@ html, body {
     background-size: cover;
 }
 .six .inner {
+    display: table-cell;
+    vertical-align: left;
+    width: 100%;
+    max-width: none;
+}
+
+.seven {
+    height: 100%; 
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    background-image: url(7.jpg);
+    background-repeat: no-repeat;
+    display: table;
+    top: 0;
+    background-size: cover;
+}
+.seven .inner {
+    display: table-cell;
+    vertical-align: left;
+    width: 100%;
+    max-width: none;
+}
+
+.eight {
+    height: 100%; 
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    background-image: url(8.jpg);
+    background-repeat: no-repeat;
+    display: table;
+    top: 0;
+    background-size: cover;
+}
+.eight .inner {
+    display: table-cell;
+    vertical-align: left;
+    width: 100%;
+    max-width: none;
+}
+
+
+.nine {
+    height: 100%; 
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    background-image: url(9.jpg);
+    background-repeat: no-repeat;
+    display: table;
+    top: 0;
+    background-size: cover;
+}
+.nine .inner {
     display: table-cell;
     vertical-align: left;
     width: 100%;
@@ -135,7 +197,7 @@ html, body {
     font-family: 'Raleway', sans-serif;
     color: #4169E1;
     text-shadow: 0px 0px 300px #000;
-    font-size: 500%;
+    font-size: 400%;
 }
 
 .content2 {
