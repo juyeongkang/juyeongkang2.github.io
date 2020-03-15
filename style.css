@@ -12,7 +12,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(landing.jpg);
+    background-image: url(img/landing.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -31,7 +31,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(1.jpg);
+    background-image: url(img/1.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -49,7 +49,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(2.jpg);
+    background-image: url(img/2.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -67,7 +67,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(3.jpg);
+    background-image: url(img/3.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -85,7 +85,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(4.jpg);
+    background-image: url(img/4.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -103,7 +103,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(5.jpg);
+    background-image: url(img/5.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -121,7 +121,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(6.jpg);
+    background-image: url(img/6.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -139,7 +139,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(7.jpg);
+    background-image: url(img/7.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -157,7 +157,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(8.jpg);
+    background-image: url(img/8.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
@@ -176,7 +176,7 @@ html, body {
     width: 100%;
     margin: auto;
     position: absolute;
-    background-image: url(9.jpg);
+    background-image: url(img/9.jpg);
     background-repeat: no-repeat;
     display: table;
     top: 0;
