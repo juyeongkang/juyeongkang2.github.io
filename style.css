@@ -183,7 +183,7 @@ html, body {
 }
 
 .content5 {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 200px 600px;
 }
 
@@ -192,6 +192,7 @@ html, body {
     color: #fff;
     text-shadow: 0px 0px 300px #000;
     font-size: 180%;
+    text-align: center;
 }
 .content5 a {
     color: #fff;
@@ -211,12 +212,9 @@ html, body {
     border: solid #fff 3px;  
 }
 
-@media screen and (max-width: 768px) {
-    .content h1 {
-        font-size: 250%;
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body {
+      background: #999;
+      width: 100%;
     }
-    .btn {
-        font-size: 110%;
-        padding: 7px 15px;
-    }
-}
+  }
