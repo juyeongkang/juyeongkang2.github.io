@@ -1,1 +1,0 @@
-# juyeongkang2.github.io
